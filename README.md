@@ -45,3 +45,6 @@ Padding: Adds 1rem of padding to the top and bottom of the footer.
 Background color: Like the header, the footer has a dark background (#333).
 Text color: The text color is set to white to match the header.
 This layout provides a simple and clean design, making use of white spaces, easy-to-read fonts, and a color scheme that uses dark backgrounds with light text for contrast. The content is well-spaced and has a structured flow, with individual "course" elements separated for clarity.
+
+*OUTPUT*
+![Image](https://github.com/user-attachments/assets/7929b169-a707-4007-82f8-9cc0964fc0da)
